@@ -1,0 +1,22 @@
+{
+  "name": "webpack_study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "css-loader": "^4.2.2",
+    "html-webpack-plugin": "^4.4.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
